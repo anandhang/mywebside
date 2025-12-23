@@ -251,7 +251,8 @@
                     </div>
                     <h3 class="card-title">Modular Automation Framework</h3>
                     <p class="card-desc">
-                        Comprehensive automation solution supporting UI, API, Database, and Performance testing with robust orchestration and reporting.
+                        Comprehensive automation solution supporting UI, API, Database, and Performance testing with
+                        robust orchestration and reporting.
                     </p>
                     <div class="card-tags">
                         <span>Python</span>
@@ -448,8 +449,18 @@
             <h2 class="section-title text-center">Get in <span class="text-accent">Touch</span></h2>
             <p class="section-subtitle text-center">Interested in collaborating on automation infrastructure?</p>
 
-            <form class="contact-form"
-                onsubmit="event.preventDefault(); alert('This is a demo form. Please use the email link below.');">
+            <form class="contact-form" action="https://formsubmit.co/anantsmail@gmail.com" method="POST">
+                <!-- Honey pot for spam protection (optional but good practice) -->
+                <input type="text" name="_honey" style="display:none">
+
+                <!-- Email Subject -->
+                <input type="hidden" name="_subject" value="New Contact from Portfolio">
+
+                <!-- Disable Captcha (optional, user can remove this line if they want captcha) 
+                     Keeping it default enabled is safer, but user might prefer cleaner UX. 
+                     Plan said "Captcham will be enabled by default". I will leave it enabled (i.e. not add _captcha=false). 
+                -->
+
                 <div class="form-grid">
                     <div class="form-group">
                         <label for="name">Name</label>
