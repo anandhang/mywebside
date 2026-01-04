@@ -1,0 +1,19 @@
+🚀 Exploring Vibium for Automation Bots
+
+Over the past week, I dove into Vibium by following their tutorials:
+https://github.com/VibiumDev/vibium/blob/main/docs/tutorials/getting-started.md
+https://github.com/VibiumDev/vibium/blob/main/docs/tutorials/getting-started-mcp.md
+
+I built my first bot and documented the journey here:
+
+🔗 Repo: https://github.com/anandhang/VibiumPracties.git
+🌐 Portfolio: https://anandhang.github.io/mywebside/
+
+Key Takeaway
+While experimenting, I noticed that when resizing the window mid-run, the MCP clicker sometimes fails to locate elements. This was an interesting challenge and gave me deeper insight into how Vibium handles UI automation.
+
+🎥 I’ve attached a short demo video to showcase the bot in action (Click here to see video https://anandhang.github.io/mywebside/).
+
+I’m excited to continue refining this and share more learnings with the QA/automation community. Feedback and suggestions are always welcome!
+
+#Automation #Python #Vibium #QA #OpenSource #Testing
